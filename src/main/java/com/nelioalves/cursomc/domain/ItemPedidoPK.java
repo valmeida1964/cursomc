@@ -1,7 +1,6 @@
 package com.nelioalves.cursomc.domain;
 
 import java.io.Serializable;
-import java.util.Objects;
 
 import jakarta.persistence.Embeddable;
 import jakarta.persistence.JoinColumn;
